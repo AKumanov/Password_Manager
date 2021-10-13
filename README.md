@@ -1,2 +1,2 @@
 # Password_Manager
-adds a website and generates password
+Saves data about website login and password details. Generate random passwords for increased security
